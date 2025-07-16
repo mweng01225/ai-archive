@@ -1,0 +1,1259 @@
+Episode 1 || State: RU8p, Action: P
+Reward: 2
+Old Q: 0.0000, New Q: 0.2000, Max Q next: 0.0000
+
+Episode 1 || State: TU10p, Action: P
+Reward: 2
+Old Q: 0.0000, New Q: 0.2000, Max Q next: 0.0000
+
+Episode 1 || State: RU10a, Action: any
+Reward: 0
+Old Q: 0.0000, New Q: 0.0000, Max Q next: 0.0000
+
+Episode 2 || State: RU8p, Action: P
+Reward: 2
+Old Q: 0.2000, New Q: 0.3998, Max Q next: 0.2000
+
+Episode 2 || State: TU10p, Action: P
+Reward: 2
+Old Q: 0.2000, New Q: 0.3800, Max Q next: 0.0000
+
+Episode 2 || State: RU10a, Action: any
+Reward: 0
+Old Q: 0.0000, New Q: 0.0000, Max Q next: 0.0000
+
+Episode 3 || State: RU8p, Action: R
+Reward: 0
+Old Q: 0.0000, New Q: 0.0000, Max Q next: 0.0000
+
+Episode 3 || State: RU10p, Action: R
+Reward: 0
+Old Q: 0.0000, New Q: 0.0000, Max Q next: 0.0000
+
+Episode 3 || State: RU8a, Action: P
+Reward: 2
+Old Q: 0.0000, New Q: 0.2000, Max Q next: 0.0000
+
+Episode 3 || State: TU10a, Action: any
+Reward: -1
+Old Q: 0.0000, New Q: -0.1000, Max Q next: 0.0000
+
+Episode 4 || State: RU8p, Action: P
+Reward: 2
+Old Q: 0.3998, New Q: 0.5974, Max Q next: 0.3800
+
+Episode 4 || State: TU10p, Action: P
+Reward: 2
+Old Q: 0.3800, New Q: 0.5420, Max Q next: 0.0000
+
+Episode 4 || State: RU10a, Action: any
+Reward: 0
+Old Q: 0.0000, New Q: 0.0000, Max Q next: 0.0000
+
+Episode 5 || State: RU8p, Action: P
+Reward: 2
+Old Q: 0.5974, New Q: 0.7914, Max Q next: 0.5420
+
+Episode 5 || State: TU10p, Action: P
+Reward: 2
+Old Q: 0.5420, New Q: 0.6878, Max Q next: 0.0000
+
+Episode 5 || State: RU10a, Action: any
+Reward: 0
+Old Q: 0.0000, New Q: 0.0000, Max Q next: 0.0000
+
+Episode 6 || State: RU8p, Action: R
+Reward: 0
+Old Q: 0.0000, New Q: 0.0000, Max Q next: 0.0000
+
+Episode 6 || State: RU10p, Action: R
+Reward: 0
+Old Q: 0.0000, New Q: 0.0198, Max Q next: 0.2000
+
+Episode 6 || State: RU8a, Action: P
+Reward: 2
+Old Q: 0.2000, New Q: 0.3701, Max Q next: -0.1000
+
+Episode 6 || State: TU10a, Action: any
+Reward: -1
+Old Q: -0.1000, New Q: -0.1900, Max Q next: 0.0000
+
+Episode 7 || State: RU8p, Action: P
+Reward: 2
+Old Q: 0.7914, New Q: 0.9803, Max Q next: 0.6878
+
+Episode 7 || State: TU10p, Action: P
+Reward: 2
+Old Q: 0.6878, New Q: 0.8190, Max Q next: 0.0000
+
+Episode 7 || State: RU10a, Action: any
+Reward: 0
+Old Q: 0.0000, New Q: 0.0000, Max Q next: 0.0000
+
+Episode 8 || State: RU8p, Action: P
+Reward: 2
+Old Q: 0.9803, New Q: 1.1634, Max Q next: 0.8190
+
+Episode 8 || State: TU10p, Action: P
+Reward: 2
+Old Q: 0.8190, New Q: 0.9371, Max Q next: 0.0000
+
+Episode 8 || State: RU10a, Action: any
+Reward: 0
+Old Q: 0.0000, New Q: 0.0000, Max Q next: 0.0000
+
+Episode 9 || State: RU8p, Action: P
+Reward: 2
+Old Q: 1.1634, New Q: 1.3398, Max Q next: 0.9371
+
+Episode 9 || State: TU10p, Action: P
+Reward: 2
+Old Q: 0.9371, New Q: 1.0434, Max Q next: 0.0000
+
+Episode 9 || State: RU10a, Action: any
+Reward: 0
+Old Q: 0.0000, New Q: 0.0000, Max Q next: 0.0000
+
+Episode 10 || State: RU8p, Action: S
+Reward: -1
+Old Q: 0.0000, New Q: -0.1000, Max Q next: 0.0000
+
+Episode 10 || State: RD10p, Action: R
+Reward: 0
+Old Q: 0.0000, New Q: 0.0000, Max Q next: 0.0000
+
+Episode 10 || State: RD8a, Action: R
+Reward: 0
+Old Q: 0.0000, New Q: 0.0000, Max Q next: 0.0000
+
+Episode 10 || State: RD10a, Action: any
+Reward: 4
+Old Q: 0.0000, New Q: 0.4000, Max Q next: 0.0000
+
+Episode 11 || State: RU8p, Action: P
+Reward: 2
+Old Q: 1.3398, New Q: 1.5091, Max Q next: 1.0434
+
+Episode 11 || State: TU10p, Action: P
+Reward: 2
+Old Q: 1.0434, New Q: 1.1391, Max Q next: 0.0000
+
+Episode 11 || State: RU10a, Action: any
+Reward: 0
+Old Q: 0.0000, New Q: 0.0000, Max Q next: 0.0000
+
+Episode 12 || State: RU8p, Action: S
+Reward: -1
+Old Q: -0.1000, New Q: -0.1900, Max Q next: 0.0000
+
+Episode 12 || State: RD10p, Action: R
+Reward: 0
+Old Q: 0.0000, New Q: 0.0000, Max Q next: 0.0000
+
+Episode 12 || State: RD8a, Action: R
+Reward: 0
+Old Q: 0.0000, New Q: 0.0396, Max Q next: 0.4000
+
+Episode 12 || State: RD10a, Action: any
+Reward: 4
+Old Q: 0.4000, New Q: 0.7600, Max Q next: 0.0000
+
+Episode 13 || State: RU8p, Action: P
+Reward: 2
+Old Q: 1.5091, New Q: 1.6710, Max Q next: 1.1391
+
+Episode 13 || State: TU10p, Action: P
+Reward: 2
+Old Q: 1.1391, New Q: 1.2252, Max Q next: 0.0000
+
+Episode 13 || State: RU10a, Action: any
+Reward: 0
+Old Q: 0.0000, New Q: 0.0000, Max Q next: 0.0000
+
+Episode 14 || State: RU8p, Action: R
+Reward: 0
+Old Q: 0.0000, New Q: 0.0020, Max Q next: 0.0198
+
+Episode 14 || State: RU10p, Action: S
+Reward: -1
+Old Q: 0.0000, New Q: -0.0961, Max Q next: 0.0396
+
+Episode 14 || State: RD8a, Action: R
+Reward: 0
+Old Q: 0.0396, New Q: 0.1109, Max Q next: 0.7600
+
+Episode 14 || State: RD10a, Action: any
+Reward: 4
+Old Q: 0.7600, New Q: 1.0840, Max Q next: 0.0000
+
+Episode 15 || State: RU8p, Action: P
+Reward: 2
+Old Q: 1.6710, New Q: 1.8252, Max Q next: 1.2252
+
+Episode 15 || State: TU10p, Action: P
+Reward: 2
+Old Q: 1.2252, New Q: 1.3026, Max Q next: 0.0000
+
+Episode 15 || State: RU10a, Action: any
+Reward: 0
+Old Q: 0.0000, New Q: 0.0000, Max Q next: 0.0000
+
+Episode 16 || State: RU8p, Action: P
+Reward: 2
+Old Q: 1.8252, New Q: 1.9716, Max Q next: 1.3026
+
+Episode 16 || State: TU10p, Action: P
+Reward: 2
+Old Q: 1.3026, New Q: 1.3724, Max Q next: 0.0000
+
+Episode 16 || State: RU10a, Action: any
+Reward: 0
+Old Q: 0.0000, New Q: 0.0000, Max Q next: 0.0000
+
+Episode 17 || State: RU8p, Action: P
+Reward: 2
+Old Q: 1.9716, New Q: 2.1103, Max Q next: 1.3724
+
+Episode 17 || State: TU10p, Action: R
+Reward: 0
+Old Q: 0.0000, New Q: 0.0366, Max Q next: 0.3701
+
+Episode 17 || State: RU8a, Action: P
+Reward: 2
+Old Q: 0.3701, New Q: 0.5143, Max Q next: -0.1900
+
+Episode 17 || State: TU10a, Action: any
+Reward: -1
+Old Q: -0.1900, New Q: -0.2710, Max Q next: 0.0000
+
+Episode 18 || State: RU8p, Action: P
+Reward: 2
+Old Q: 2.1103, New Q: 2.2352, Max Q next: 1.3724
+
+Episode 18 || State: TU10p, Action: R
+Reward: 0
+Old Q: 0.0366, New Q: 0.0839, Max Q next: 0.5143
+
+Episode 18 || State: RU8a, Action: P
+Reward: 2
+Old Q: 0.5143, New Q: 0.6360, Max Q next: -0.2710
+
+Episode 18 || State: TU10a, Action: any
+Reward: -1
+Old Q: -0.2710, New Q: -0.3439, Max Q next: 0.0000
+
+Episode 19 || State: RU8p, Action: P
+Reward: 2
+Old Q: 2.2352, New Q: 2.3475, Max Q next: 1.3724
+
+Episode 19 || State: TU10p, Action: P
+Reward: 2
+Old Q: 1.3724, New Q: 1.4351, Max Q next: 0.0000
+
+Episode 19 || State: RU10a, Action: any
+Reward: 0
+Old Q: 0.0000, New Q: 0.0000, Max Q next: 0.0000
+
+Episode 20 || State: RU8p, Action: P
+Reward: 2
+Old Q: 2.3475, New Q: 2.4548, Max Q next: 1.4351
+
+Episode 20 || State: TU10p, Action: P
+Reward: 2
+Old Q: 1.4351, New Q: 1.4916, Max Q next: 0.0000
+
+Episode 20 || State: RU10a, Action: any
+Reward: 0
+Old Q: 0.0000, New Q: 0.0000, Max Q next: 0.0000
+
+Episode 21 || State: RU8p, Action: P
+Reward: 2
+Old Q: 2.4548, New Q: 2.5570, Max Q next: 1.4916
+
+Episode 21 || State: TU10p, Action: P
+Reward: 2
+Old Q: 1.4916, New Q: 1.5425, Max Q next: 0.0000
+
+Episode 21 || State: RU10a, Action: any
+Reward: 0
+Old Q: 0.0000, New Q: 0.0000, Max Q next: 0.0000
+
+Episode 22 || State: RU8p, Action: P
+Reward: 2
+Old Q: 2.5570, New Q: 2.6540, Max Q next: 1.5425
+
+Episode 22 || State: TU10p, Action: P
+Reward: 2
+Old Q: 1.5425, New Q: 1.5882, Max Q next: 0.0000
+
+Episode 22 || State: RU10a, Action: any
+Reward: 0
+Old Q: 0.0000, New Q: 0.0000, Max Q next: 0.0000
+
+Episode 23 || State: RU8p, Action: P
+Reward: 2
+Old Q: 2.6540, New Q: 2.7459, Max Q next: 1.5882
+
+Episode 23 || State: TU10p, Action: P
+Reward: 2
+Old Q: 1.5882, New Q: 1.6294, Max Q next: 0.0000
+
+Episode 23 || State: RU10a, Action: any
+Reward: 0
+Old Q: 0.0000, New Q: 0.0000, Max Q next: 0.0000
+
+Episode 24 || State: RU8p, Action: R
+Reward: 0
+Old Q: 0.0020, New Q: 0.0037, Max Q next: 0.0198
+
+Episode 24 || State: RU10p, Action: R
+Reward: 0
+Old Q: 0.0198, New Q: 0.0808, Max Q next: 0.6360
+
+Episode 24 || State: RU8a, Action: P
+Reward: 2
+Old Q: 0.6360, New Q: 0.7384, Max Q next: -0.3439
+
+Episode 24 || State: TU10a, Action: any
+Reward: -1
+Old Q: -0.3439, New Q: -0.4095, Max Q next: 0.0000
+
+Episode 25 || State: RU8p, Action: P
+Reward: 2
+Old Q: 2.7459, New Q: 2.8326, Max Q next: 1.6294
+
+Episode 25 || State: TU10p, Action: P
+Reward: 2
+Old Q: 1.6294, New Q: 1.6665, Max Q next: 0.0000
+
+Episode 25 || State: RU10a, Action: any
+Reward: 0
+Old Q: 0.0000, New Q: 0.0000, Max Q next: 0.0000
+
+Episode 26 || State: RU8p, Action: P
+Reward: 2
+Old Q: 2.8326, New Q: 2.9143, Max Q next: 1.6665
+
+Episode 26 || State: TU10p, Action: P
+Reward: 2
+Old Q: 1.6665, New Q: 1.6998, Max Q next: 0.0000
+
+Episode 26 || State: RU10a, Action: any
+Reward: 0
+Old Q: 0.0000, New Q: 0.0000, Max Q next: 0.0000
+
+Episode 27 || State: RU8p, Action: R
+Reward: 0
+Old Q: 0.0037, New Q: 0.0113, Max Q next: 0.0808
+
+Episode 27 || State: RU10p, Action: P
+Reward: 2
+Old Q: 0.0000, New Q: 0.2731, Max Q next: 0.7384
+
+Episode 27 || State: RU8a, Action: P
+Reward: 2
+Old Q: 0.7384, New Q: 0.8240, Max Q next: -0.4095
+
+Episode 27 || State: TU10a, Action: any
+Reward: -1
+Old Q: -0.4095, New Q: -0.4686, Max Q next: 0.0000
+
+Episode 28 || State: RU8p, Action: P
+Reward: 2
+Old Q: 2.9143, New Q: 2.9911, Max Q next: 1.6998
+
+Episode 28 || State: TU10p, Action: P
+Reward: 2
+Old Q: 1.6998, New Q: 1.7298, Max Q next: 0.0000
+
+Episode 28 || State: RU10a, Action: any
+Reward: 0
+Old Q: 0.0000, New Q: 0.0000, Max Q next: 0.0000
+
+Episode 29 || State: RU8p, Action: P
+Reward: 2
+Old Q: 2.9911, New Q: 3.0633, Max Q next: 1.7298
+
+Episode 29 || State: TU10p, Action: P
+Reward: 2
+Old Q: 1.7298, New Q: 1.7568, Max Q next: 0.0000
+
+Episode 29 || State: RU10a, Action: any
+Reward: 0
+Old Q: 0.0000, New Q: 0.0000, Max Q next: 0.0000
+
+Episode 30 || State: RU8p, Action: P
+Reward: 2
+Old Q: 3.0633, New Q: 3.1309, Max Q next: 1.7568
+
+Episode 30 || State: TU10p, Action: P
+Reward: 2
+Old Q: 1.7568, New Q: 1.7812, Max Q next: 0.0000
+
+Episode 30 || State: RU10a, Action: any
+Reward: 0
+Old Q: 0.0000, New Q: 0.0000, Max Q next: 0.0000
+
+Episode 31 || State: RU8p, Action: P
+Reward: 2
+Old Q: 3.1309, New Q: 3.1941, Max Q next: 1.7812
+
+Episode 31 || State: TU10p, Action: P
+Reward: 2
+Old Q: 1.7812, New Q: 1.8030, Max Q next: 0.0000
+
+Episode 31 || State: RU10a, Action: any
+Reward: 0
+Old Q: 0.0000, New Q: 0.0000, Max Q next: 0.0000
+
+Episode 32 || State: RU8p, Action: P
+Reward: 2
+Old Q: 3.1941, New Q: 3.2532, Max Q next: 1.8030
+
+Episode 32 || State: TU10p, Action: P
+Reward: 2
+Old Q: 1.8030, New Q: 1.8227, Max Q next: 0.0000
+
+Episode 32 || State: RU10a, Action: any
+Reward: 0
+Old Q: 0.0000, New Q: 0.0000, Max Q next: 0.0000
+
+Episode 33 || State: RU8p, Action: P
+Reward: 2
+Old Q: 3.2532, New Q: 3.3084, Max Q next: 1.8227
+
+Episode 33 || State: TU10p, Action: R
+Reward: 0
+Old Q: 0.0839, New Q: 0.1571, Max Q next: 0.8240
+
+Episode 33 || State: RU8a, Action: P
+Reward: 2
+Old Q: 0.8240, New Q: 0.8952, Max Q next: -0.4686
+
+Episode 33 || State: TU10a, Action: any
+Reward: -1
+Old Q: -0.4686, New Q: -0.5217, Max Q next: 0.0000
+
+Episode 34 || State: RU8p, Action: R
+Reward: 0
+Old Q: 0.0113, New Q: 0.0373, Max Q next: 0.2731
+
+Episode 34 || State: RU10p, Action: P
+Reward: 2
+Old Q: 0.2731, New Q: 0.4458, Max Q next: 0.0000
+
+Episode 34 || State: RU10a, Action: any
+Reward: 0
+Old Q: 0.0000, New Q: 0.0000, Max Q next: 0.0000
+
+Episode 35 || State: RU8p, Action: P
+Reward: 2
+Old Q: 3.3084, New Q: 3.3580, Max Q next: 1.8227
+
+Episode 35 || State: TU10p, Action: P
+Reward: 2
+Old Q: 1.8227, New Q: 1.8405, Max Q next: 0.0000
+
+Episode 35 || State: RU10a, Action: any
+Reward: 0
+Old Q: 0.0000, New Q: 0.0000, Max Q next: 0.0000
+
+Episode 36 || State: RU8p, Action: P
+Reward: 2
+Old Q: 3.3580, New Q: 3.4044, Max Q next: 1.8405
+
+Episode 36 || State: TU10p, Action: P
+Reward: 2
+Old Q: 1.8405, New Q: 1.8564, Max Q next: 0.0000
+
+Episode 36 || State: RU10a, Action: any
+Reward: 0
+Old Q: 0.0000, New Q: 0.0000, Max Q next: 0.0000
+
+Episode 37 || State: RU8p, Action: P
+Reward: 2
+Old Q: 3.4044, New Q: 3.4477, Max Q next: 1.8564
+
+Episode 37 || State: TU10p, Action: R
+Reward: 0
+Old Q: 0.1571, New Q: 0.2300, Max Q next: 0.8952
+
+Episode 37 || State: RU8a, Action: P
+Reward: 2
+Old Q: 0.8952, New Q: 0.9540, Max Q next: -0.5217
+
+Episode 37 || State: TU10a, Action: any
+Reward: -1
+Old Q: -0.5217, New Q: -0.5695, Max Q next: 0.0000
+
+Episode 38 || State: RU8p, Action: P
+Reward: 2
+Old Q: 3.4477, New Q: 3.4867, Max Q next: 1.8564
+
+Episode 38 || State: TU10p, Action: P
+Reward: 2
+Old Q: 1.8564, New Q: 1.8708, Max Q next: 0.0000
+
+Episode 38 || State: RU10a, Action: any
+Reward: 0
+Old Q: 0.0000, New Q: 0.0000, Max Q next: 0.0000
+
+Episode 39 || State: RU8p, Action: P
+Reward: 2
+Old Q: 3.4867, New Q: 3.5233, Max Q next: 1.8708
+
+Episode 39 || State: TU10p, Action: P
+Reward: 2
+Old Q: 1.8708, New Q: 1.8837, Max Q next: 0.0000
+
+Episode 39 || State: RU10a, Action: any
+Reward: 0
+Old Q: 0.0000, New Q: 0.0000, Max Q next: 0.0000
+
+Episode 40 || State: RU8p, Action: P
+Reward: 2
+Old Q: 3.5233, New Q: 3.5574, Max Q next: 1.8837
+
+Episode 40 || State: TU10p, Action: P
+Reward: 2
+Old Q: 1.8837, New Q: 1.8953, Max Q next: 0.0000
+
+Episode 40 || State: RU10a, Action: any
+Reward: 0
+Old Q: 0.0000, New Q: 0.0000, Max Q next: 0.0000
+
+Episode 41 || State: RU8p, Action: P
+Reward: 2
+Old Q: 3.5574, New Q: 3.5893, Max Q next: 1.8953
+
+Episode 41 || State: TU10p, Action: P
+Reward: 2
+Old Q: 1.8953, New Q: 1.9058, Max Q next: 0.0000
+
+Episode 41 || State: RU10a, Action: any
+Reward: 0
+Old Q: 0.0000, New Q: 0.0000, Max Q next: 0.0000
+
+Episode 42 || State: RU8p, Action: P
+Reward: 2
+Old Q: 3.5893, New Q: 3.6191, Max Q next: 1.9058
+
+Episode 42 || State: TU10p, Action: P
+Reward: 2
+Old Q: 1.9058, New Q: 1.9152, Max Q next: 0.0000
+
+Episode 42 || State: RU10a, Action: any
+Reward: 0
+Old Q: 0.0000, New Q: 0.0000, Max Q next: 0.0000
+
+Episode 43 || State: RU8p, Action: P
+Reward: 2
+Old Q: 3.6191, New Q: 3.6468, Max Q next: 1.9152
+
+Episode 43 || State: TU10p, Action: P
+Reward: 2
+Old Q: 1.9152, New Q: 1.9237, Max Q next: 0.0000
+
+Episode 43 || State: RU10a, Action: any
+Reward: 0
+Old Q: 0.0000, New Q: 0.0000, Max Q next: 0.0000
+
+Episode 44 || State: RU8p, Action: P
+Reward: 2
+Old Q: 3.6468, New Q: 3.6725, Max Q next: 1.9237
+
+Episode 44 || State: TU10p, Action: P
+Reward: 2
+Old Q: 1.9237, New Q: 1.9313, Max Q next: 0.0000
+
+Episode 44 || State: RU10a, Action: any
+Reward: 0
+Old Q: 0.0000, New Q: 0.0000, Max Q next: 0.0000
+
+Episode 45 || State: RU8p, Action: P
+Reward: 2
+Old Q: 3.6725, New Q: 3.6965, Max Q next: 1.9313
+
+Episode 45 || State: TU10p, Action: P
+Reward: 2
+Old Q: 1.9313, New Q: 1.9382, Max Q next: 0.0000
+
+Episode 45 || State: RU10a, Action: any
+Reward: 0
+Old Q: 0.0000, New Q: 0.0000, Max Q next: 0.0000
+
+Episode 46 || State: RU8p, Action: P
+Reward: 2
+Old Q: 3.6965, New Q: 3.7187, Max Q next: 1.9382
+
+Episode 46 || State: TU10p, Action: P
+Reward: 2
+Old Q: 1.9382, New Q: 1.9444, Max Q next: 0.0000
+
+Episode 46 || State: RU10a, Action: any
+Reward: 0
+Old Q: 0.0000, New Q: 0.0000, Max Q next: 0.0000
+
+Episode 47 || State: RU8p, Action: P
+Reward: 2
+Old Q: 3.7187, New Q: 3.7393, Max Q next: 1.9444
+
+Episode 47 || State: TU10p, Action: P
+Reward: 2
+Old Q: 1.9444, New Q: 1.9499, Max Q next: 0.0000
+
+Episode 47 || State: RU10a, Action: any
+Reward: 0
+Old Q: 0.0000, New Q: 0.0000, Max Q next: 0.0000
+
+Episode 48 || State: RU8p, Action: P
+Reward: 2
+Old Q: 3.7393, New Q: 3.7584, Max Q next: 1.9499
+
+Episode 48 || State: TU10p, Action: P
+Reward: 2
+Old Q: 1.9499, New Q: 1.9549, Max Q next: 0.0000
+
+Episode 48 || State: RU10a, Action: any
+Reward: 0
+Old Q: 0.0000, New Q: 0.0000, Max Q next: 0.0000
+
+Episode 49 || State: RU8p, Action: P
+Reward: 2
+Old Q: 3.7584, New Q: 3.7761, Max Q next: 1.9549
+
+Episode 49 || State: TU10p, Action: P
+Reward: 2
+Old Q: 1.9549, New Q: 1.9594, Max Q next: 0.0000
+
+Episode 49 || State: RU10a, Action: any
+Reward: 0
+Old Q: 0.0000, New Q: 0.0000, Max Q next: 0.0000
+
+Episode 50 || State: RU8p, Action: P
+Reward: 2
+Old Q: 3.7761, New Q: 3.7925, Max Q next: 1.9594
+
+Episode 50 || State: TU10p, Action: R
+Reward: 0
+Old Q: 0.2300, New Q: 0.3014, Max Q next: 0.9540
+
+Episode 50 || State: RU8a, Action: P
+Reward: 2
+Old Q: 0.9540, New Q: 1.0023, Max Q next: -0.5695
+
+Episode 50 || State: TU10a, Action: any
+Reward: -1
+Old Q: -0.5695, New Q: -0.6126, Max Q next: 0.0000
+
+Episode 51 || State: RU8p, Action: P
+Reward: 2
+Old Q: 3.7925, New Q: 3.8072, Max Q next: 1.9594
+
+Episode 51 || State: TU10p, Action: R
+Reward: 0
+Old Q: 0.3014, New Q: 0.3705, Max Q next: 1.0023
+
+Episode 51 || State: RU8a, Action: P
+Reward: 2
+Old Q: 1.0023, New Q: 1.0414, Max Q next: -0.6126
+
+Episode 51 || State: TU10a, Action: any
+Reward: -1
+Old Q: -0.6126, New Q: -0.6513, Max Q next: 0.0000
+
+Episode 52 || State: RU8p, Action: P
+Reward: 2
+Old Q: 3.8072, New Q: 3.8205, Max Q next: 1.9594
+
+Episode 52 || State: TU10p, Action: P
+Reward: 2
+Old Q: 1.9594, New Q: 1.9635, Max Q next: 0.0000
+
+Episode 52 || State: RU10a, Action: any
+Reward: 0
+Old Q: 0.0000, New Q: 0.0000, Max Q next: 0.0000
+
+Episode 53 || State: RU8p, Action: P
+Reward: 2
+Old Q: 3.8205, New Q: 3.8328, Max Q next: 1.9635
+
+Episode 53 || State: TU10p, Action: P
+Reward: 2
+Old Q: 1.9635, New Q: 1.9672, Max Q next: 0.0000
+
+Episode 53 || State: RU10a, Action: any
+Reward: 0
+Old Q: 0.0000, New Q: 0.0000, Max Q next: 0.0000
+
+Episode 54 || State: RU8p, Action: P
+Reward: 2
+Old Q: 3.8328, New Q: 3.8443, Max Q next: 1.9672
+
+Episode 54 || State: TU10p, Action: P
+Reward: 2
+Old Q: 1.9672, New Q: 1.9704, Max Q next: 0.0000
+
+Episode 54 || State: RU10a, Action: any
+Reward: 0
+Old Q: 0.0000, New Q: 0.0000, Max Q next: 0.0000
+
+Episode 55 || State: RU8p, Action: P
+Reward: 2
+Old Q: 3.8443, New Q: 3.8550, Max Q next: 1.9704
+
+Episode 55 || State: TU10p, Action: P
+Reward: 2
+Old Q: 1.9704, New Q: 1.9734, Max Q next: 0.0000
+
+Episode 55 || State: RU10a, Action: any
+Reward: 0
+Old Q: 0.0000, New Q: 0.0000, Max Q next: 0.0000
+
+Episode 56 || State: RU8p, Action: S
+Reward: -1
+Old Q: -0.1900, New Q: -0.2710, Max Q next: 0.0000
+
+Episode 56 || State: RD10p, Action: R
+Reward: 0
+Old Q: 0.0000, New Q: 0.0110, Max Q next: 0.1109
+
+Episode 56 || State: RD8a, Action: R
+Reward: 0
+Old Q: 0.1109, New Q: 0.2071, Max Q next: 1.0840
+
+Episode 56 || State: RD10a, Action: any
+Reward: 4
+Old Q: 1.0840, New Q: 1.3756, Max Q next: 0.0000
+
+Episode 57 || State: RU8p, Action: R
+Reward: 0
+Old Q: 0.0373, New Q: 0.0777, Max Q next: 0.4458
+
+Episode 57 || State: RU10p, Action: P
+Reward: 2
+Old Q: 0.4458, New Q: 0.7043, Max Q next: 1.0414
+
+Episode 57 || State: RU8a, Action: P
+Reward: 2
+Old Q: 1.0414, New Q: 1.0728, Max Q next: -0.6513
+
+Episode 57 || State: TU10a, Action: any
+Reward: -1
+Old Q: -0.6513, New Q: -0.6862, Max Q next: 0.0000
+
+Episode 58 || State: RU8p, Action: S
+Reward: -1
+Old Q: -0.2710, New Q: -0.3428, Max Q next: 0.0110
+
+Episode 58 || State: RD10p, Action: R
+Reward: 0
+Old Q: 0.0110, New Q: 0.0304, Max Q next: 0.2071
+
+Episode 58 || State: RD8a, Action: R
+Reward: 0
+Old Q: 0.2071, New Q: 0.3226, Max Q next: 1.3756
+
+Episode 58 || State: RD10a, Action: any
+Reward: 4
+Old Q: 1.3756, New Q: 1.6380, Max Q next: 0.0000
+
+Episode 59 || State: RU8p, Action: S
+Reward: -1
+Old Q: -0.3428, New Q: -0.4055, Max Q next: 0.0304
+
+Episode 59 || State: RD10p, Action: R
+Reward: 0
+Old Q: 0.0304, New Q: 0.0593, Max Q next: 0.3226
+
+Episode 59 || State: RD8a, Action: R
+Reward: 0
+Old Q: 0.3226, New Q: 0.4525, Max Q next: 1.6380
+
+Episode 59 || State: RD10a, Action: any
+Reward: 4
+Old Q: 1.6380, New Q: 1.8742, Max Q next: 0.0000
+
+Episode 60 || State: RU8p, Action: P
+Reward: 2
+Old Q: 3.8550, New Q: 3.8648, Max Q next: 1.9734
+
+Episode 60 || State: TU10p, Action: P
+Reward: 2
+Old Q: 1.9734, New Q: 1.9761, Max Q next: 0.0000
+
+Episode 60 || State: RU10a, Action: any
+Reward: 0
+Old Q: 0.0000, New Q: 0.0000, Max Q next: 0.0000
+
+Episode 61 || State: RU8p, Action: P
+Reward: 2
+Old Q: 3.8648, New Q: 3.8740, Max Q next: 1.9761
+
+Episode 61 || State: TU10p, Action: P
+Reward: 2
+Old Q: 1.9761, New Q: 1.9784, Max Q next: 0.0000
+
+Episode 61 || State: RU10a, Action: any
+Reward: 0
+Old Q: 0.0000, New Q: 0.0000, Max Q next: 0.0000
+
+Episode 62 || State: RU8p, Action: R
+Reward: 0
+Old Q: 0.0777, New Q: 0.1396, Max Q next: 0.7043
+
+Episode 62 || State: RU10p, Action: P
+Reward: 2
+Old Q: 0.7043, New Q: 0.9401, Max Q next: 1.0728
+
+Episode 62 || State: RU8a, Action: P
+Reward: 2
+Old Q: 1.0728, New Q: 1.0976, Max Q next: -0.6862
+
+Episode 62 || State: TU10a, Action: any
+Reward: -1
+Old Q: -0.6862, New Q: -0.7176, Max Q next: 0.0000
+
+Episode 63 || State: RU8p, Action: P
+Reward: 2
+Old Q: 3.8740, New Q: 3.8824, Max Q next: 1.9784
+
+Episode 63 || State: TU10p, Action: P
+Reward: 2
+Old Q: 1.9784, New Q: 1.9806, Max Q next: 0.0000
+
+Episode 63 || State: RU10a, Action: any
+Reward: 0
+Old Q: 0.0000, New Q: 0.0000, Max Q next: 0.0000
+
+Episode 64 || State: RU8p, Action: P
+Reward: 2
+Old Q: 3.8824, New Q: 3.8903, Max Q next: 1.9806
+
+Episode 64 || State: TU10p, Action: P
+Reward: 2
+Old Q: 1.9806, New Q: 1.9825, Max Q next: 0.0000
+
+Episode 64 || State: RU10a, Action: any
+Reward: 0
+Old Q: 0.0000, New Q: 0.0000, Max Q next: 0.0000
+
+Episode 65 || State: RU8p, Action: P
+Reward: 2
+Old Q: 3.8903, New Q: 3.8975, Max Q next: 1.9825
+
+Episode 65 || State: TU10p, Action: P
+Reward: 2
+Old Q: 1.9825, New Q: 1.9843, Max Q next: 0.0000
+
+Episode 65 || State: RU10a, Action: any
+Reward: 0
+Old Q: 0.0000, New Q: 0.0000, Max Q next: 0.0000
+
+Episode 66 || State: RU8p, Action: P
+Reward: 2
+Old Q: 3.8975, New Q: 3.9042, Max Q next: 1.9843
+
+Episode 66 || State: TU10p, Action: P
+Reward: 2
+Old Q: 1.9843, New Q: 1.9859, Max Q next: 0.0000
+
+Episode 66 || State: RU10a, Action: any
+Reward: 0
+Old Q: 0.0000, New Q: 0.0000, Max Q next: 0.0000
+
+Episode 67 || State: RU8p, Action: P
+Reward: 2
+Old Q: 3.9042, New Q: 3.9104, Max Q next: 1.9859
+
+Episode 67 || State: TU10p, Action: P
+Reward: 2
+Old Q: 1.9859, New Q: 1.9873, Max Q next: 0.0000
+
+Episode 67 || State: RU10a, Action: any
+Reward: 0
+Old Q: 0.0000, New Q: 0.0000, Max Q next: 0.0000
+
+Episode 68 || State: RU8p, Action: P
+Reward: 2
+Old Q: 3.9104, New Q: 3.9161, Max Q next: 1.9873
+
+Episode 68 || State: TU10p, Action: P
+Reward: 2
+Old Q: 1.9873, New Q: 1.9885, Max Q next: 0.0000
+
+Episode 68 || State: RU10a, Action: any
+Reward: 0
+Old Q: 0.0000, New Q: 0.0000, Max Q next: 0.0000
+
+Episode 69 || State: RU8p, Action: P
+Reward: 2
+Old Q: 3.9161, New Q: 3.9213, Max Q next: 1.9885
+
+Episode 69 || State: TU10p, Action: P
+Reward: 2
+Old Q: 1.9885, New Q: 1.9897, Max Q next: 0.0000
+
+Episode 69 || State: RU10a, Action: any
+Reward: 0
+Old Q: 0.0000, New Q: 0.0000, Max Q next: 0.0000
+
+Episode 70 || State: RU8p, Action: P
+Reward: 2
+Old Q: 3.9213, New Q: 3.9262, Max Q next: 1.9897
+
+Episode 70 || State: TU10p, Action: R
+Reward: 0
+Old Q: 0.3705, New Q: 0.4421, Max Q next: 1.0976
+
+Episode 70 || State: RU8a, Action: P
+Reward: 2
+Old Q: 1.0976, New Q: 1.1168, Max Q next: -0.7176
+
+Episode 70 || State: TU10a, Action: any
+Reward: -1
+Old Q: -0.7176, New Q: -0.7458, Max Q next: 0.0000
+
+Episode 71 || State: RU8p, Action: P
+Reward: 2
+Old Q: 3.9262, New Q: 3.9306, Max Q next: 1.9897
+
+Episode 71 || State: TU10p, Action: P
+Reward: 2
+Old Q: 1.9897, New Q: 1.9907, Max Q next: 0.0000
+
+Episode 71 || State: RU10a, Action: any
+Reward: 0
+Old Q: 0.0000, New Q: 0.0000, Max Q next: 0.0000
+
+Episode 72 || State: RU8p, Action: P
+Reward: 2
+Old Q: 3.9306, New Q: 3.9346, Max Q next: 1.9907
+
+Episode 72 || State: TU10p, Action: P
+Reward: 2
+Old Q: 1.9907, New Q: 1.9917, Max Q next: 0.0000
+
+Episode 72 || State: RU10a, Action: any
+Reward: 0
+Old Q: 0.0000, New Q: 0.0000, Max Q next: 0.0000
+
+Episode 73 || State: RU8p, Action: P
+Reward: 2
+Old Q: 3.9346, New Q: 3.9383, Max Q next: 1.9917
+
+Episode 73 || State: TU10p, Action: P
+Reward: 2
+Old Q: 1.9917, New Q: 1.9925, Max Q next: 0.0000
+
+Episode 73 || State: RU10a, Action: any
+Reward: 0
+Old Q: 0.0000, New Q: 0.0000, Max Q next: 0.0000
+
+Episode 74 || State: RU8p, Action: P
+Reward: 2
+Old Q: 3.9383, New Q: 3.9417, Max Q next: 1.9925
+
+Episode 74 || State: TU10p, Action: P
+Reward: 2
+Old Q: 1.9925, New Q: 1.9932, Max Q next: 0.0000
+
+Episode 74 || State: RU10a, Action: any
+Reward: 0
+Old Q: 0.0000, New Q: 0.0000, Max Q next: 0.0000
+
+Episode 75 || State: RU8p, Action: P
+Reward: 2
+Old Q: 3.9417, New Q: 3.9449, Max Q next: 1.9932
+
+Episode 75 || State: TU10p, Action: P
+Reward: 2
+Old Q: 1.9932, New Q: 1.9939, Max Q next: 0.0000
+
+Episode 75 || State: RU10a, Action: any
+Reward: 0
+Old Q: 0.0000, New Q: 0.0000, Max Q next: 0.0000
+
+Episode 76 || State: RU8p, Action: S
+Reward: -1
+Old Q: -0.4055, New Q: -0.4591, Max Q next: 0.0593
+
+Episode 76 || State: RD10p, Action: R
+Reward: 0
+Old Q: 0.0593, New Q: 0.0981, Max Q next: 0.4525
+
+Episode 76 || State: RD8a, Action: R
+Reward: 0
+Old Q: 0.4525, New Q: 0.5928, Max Q next: 1.8742
+
+Episode 76 || State: RD10a, Action: any
+Reward: 4
+Old Q: 1.8742, New Q: 2.0868, Max Q next: 0.0000
+
+Episode 77 || State: RU8p, Action: P
+Reward: 2
+Old Q: 3.9449, New Q: 3.9478, Max Q next: 1.9939
+
+Episode 77 || State: TU10p, Action: P
+Reward: 2
+Old Q: 1.9939, New Q: 1.9945, Max Q next: 0.0000
+
+Episode 77 || State: RU10a, Action: any
+Reward: 0
+Old Q: 0.0000, New Q: 0.0000, Max Q next: 0.0000
+
+Episode 78 || State: RU8p, Action: P
+Reward: 2
+Old Q: 3.9478, New Q: 3.9505, Max Q next: 1.9945
+
+Episode 78 || State: TU10p, Action: P
+Reward: 2
+Old Q: 1.9945, New Q: 1.9951, Max Q next: 0.0000
+
+Episode 78 || State: RU10a, Action: any
+Reward: 0
+Old Q: 0.0000, New Q: 0.0000, Max Q next: 0.0000
+
+Episode 79 || State: RU8p, Action: R
+Reward: 0
+Old Q: 0.1396, New Q: 0.2187, Max Q next: 0.9401
+
+Episode 79 || State: RU10p, Action: P
+Reward: 2
+Old Q: 0.9401, New Q: 1.1566, Max Q next: 1.1168
+
+Episode 79 || State: RU8a, Action: P
+Reward: 2
+Old Q: 1.1168, New Q: 1.1312, Max Q next: -0.7458
+
+Episode 79 || State: TU10a, Action: any
+Reward: -1
+Old Q: -0.7458, New Q: -0.7712, Max Q next: 0.0000
+
+Episode 80 || State: RU8p, Action: P
+Reward: 2
+Old Q: 3.9505, New Q: 3.9529, Max Q next: 1.9951
+
+Episode 80 || State: TU10p, Action: P
+Reward: 2
+Old Q: 1.9951, New Q: 1.9956, Max Q next: 0.0000
+
+Episode 80 || State: RU10a, Action: any
+Reward: 0
+Old Q: 0.0000, New Q: 0.0000, Max Q next: 0.0000
+
+Episode 81 || State: RU8p, Action: P
+Reward: 2
+Old Q: 3.9529, New Q: 3.9552, Max Q next: 1.9956
+
+Episode 81 || State: TU10p, Action: P
+Reward: 2
+Old Q: 1.9956, New Q: 1.9960, Max Q next: 0.0000
+
+Episode 81 || State: RU10a, Action: any
+Reward: 0
+Old Q: 0.0000, New Q: 0.0000, Max Q next: 0.0000
+
+Episode 82 || State: RU8p, Action: P
+Reward: 2
+Old Q: 3.9552, New Q: 3.9573, Max Q next: 1.9960
+
+Episode 82 || State: TU10p, Action: P
+Reward: 2
+Old Q: 1.9960, New Q: 1.9964, Max Q next: 0.0000
+
+Episode 82 || State: RU10a, Action: any
+Reward: 0
+Old Q: 0.0000, New Q: 0.0000, Max Q next: 0.0000
+
+Episode 83 || State: RU8p, Action: P
+Reward: 2
+Old Q: 3.9573, New Q: 3.9592, Max Q next: 1.9964
+
+Episode 83 || State: TU10p, Action: R
+Reward: 0
+Old Q: 0.4421, New Q: 0.5099, Max Q next: 1.1312
+
+Episode 83 || State: RU8a, Action: P
+Reward: 2
+Old Q: 1.1312, New Q: 1.1418, Max Q next: -0.7712
+
+Episode 83 || State: TU10a, Action: any
+Reward: -1
+Old Q: -0.7712, New Q: -0.7941, Max Q next: 0.0000
+
+Episode 84 || State: RU8p, Action: S
+Reward: -1
+Old Q: -0.4591, New Q: -0.5035, Max Q next: 0.0981
+
+Episode 84 || State: RD10p, Action: P
+Reward: 2
+Old Q: 0.0000, New Q: 0.2587, Max Q next: 0.5928
+
+Episode 84 || State: RD8a, Action: R
+Reward: 0
+Old Q: 0.5928, New Q: 0.7401, Max Q next: 2.0868
+
+Episode 84 || State: RD10a, Action: any
+Reward: 4
+Old Q: 2.0868, New Q: 2.2781, Max Q next: 0.0000
+
+Episode 85 || State: RU8p, Action: P
+Reward: 2
+Old Q: 3.9592, New Q: 3.9609, Max Q next: 1.9964
+
+Episode 85 || State: TU10p, Action: P
+Reward: 2
+Old Q: 1.9964, New Q: 1.9968, Max Q next: 0.0000
+
+Episode 85 || State: RU10a, Action: any
+Reward: 0
+Old Q: 0.0000, New Q: 0.0000, Max Q next: 0.0000
+
+Episode 86 || State: RU8p, Action: P
+Reward: 2
+Old Q: 3.9609, New Q: 3.9625, Max Q next: 1.9968
+
+Episode 86 || State: TU10p, Action: P
+Reward: 2
+Old Q: 1.9968, New Q: 1.9971, Max Q next: 0.0000
+
+Episode 86 || State: RU10a, Action: any
+Reward: 0
+Old Q: 0.0000, New Q: 0.0000, Max Q next: 0.0000
+
+Episode 87 || State: RU8p, Action: R
+Reward: 0
+Old Q: 0.2187, New Q: 0.3114, Max Q next: 1.1566
+
+Episode 87 || State: RU10p, Action: P
+Reward: 2
+Old Q: 1.1566, New Q: 1.3540, Max Q next: 1.1418
+
+Episode 87 || State: RU8a, Action: P
+Reward: 2
+Old Q: 1.1418, New Q: 1.1490, Max Q next: -0.7941
+
+Episode 87 || State: TU10a, Action: any
+Reward: -1
+Old Q: -0.7941, New Q: -0.8147, Max Q next: 0.0000
+
+Episode 88 || State: RU8p, Action: P
+Reward: 2
+Old Q: 3.9625, New Q: 3.9640, Max Q next: 1.9971
+
+Episode 88 || State: TU10p, Action: P
+Reward: 2
+Old Q: 1.9971, New Q: 1.9974, Max Q next: 0.0000
+
+Episode 88 || State: RU10a, Action: any
+Reward: 0
+Old Q: 0.0000, New Q: 0.0000, Max Q next: 0.0000
+
+Episode 89 || State: RU8p, Action: P
+Reward: 2
+Old Q: 3.9640, New Q: 3.9653, Max Q next: 1.9974
+
+Episode 89 || State: TU10p, Action: P
+Reward: 2
+Old Q: 1.9974, New Q: 1.9976, Max Q next: 0.0000
+
+Episode 89 || State: RU10a, Action: any
+Reward: 0
+Old Q: 0.0000, New Q: 0.0000, Max Q next: 0.0000
+
+Episode 90 || State: RU8p, Action: P
+Reward: 2
+Old Q: 3.9653, New Q: 3.9666, Max Q next: 1.9976
+
+Episode 90 || State: TU10p, Action: P
+Reward: 2
+Old Q: 1.9976, New Q: 1.9979, Max Q next: 0.0000
+
+Episode 90 || State: RU10a, Action: any
+Reward: 0
+Old Q: 0.0000, New Q: 0.0000, Max Q next: 0.0000
+
+Episode 91 || State: RU8p, Action: R
+Reward: 0
+Old Q: 0.3114, New Q: 0.4143, Max Q next: 1.3540
+
+Episode 91 || State: RU10p, Action: P
+Reward: 2
+Old Q: 1.3540, New Q: 1.4186, Max Q next: 0.0000
+
+Episode 91 || State: RU10a, Action: any
+Reward: 0
+Old Q: 0.0000, New Q: 0.0000, Max Q next: 0.0000
+
+Episode 92 || State: RU8p, Action: P
+Reward: 2
+Old Q: 3.9666, New Q: 3.9677, Max Q next: 1.9979
+
+Episode 92 || State: TU10p, Action: P
+Reward: 2
+Old Q: 1.9979, New Q: 1.9981, Max Q next: 0.0000
+
+Episode 92 || State: RU10a, Action: any
+Reward: 0
+Old Q: 0.0000, New Q: 0.0000, Max Q next: 0.0000
+
+Episode 93 || State: RU8p, Action: P
+Reward: 2
+Old Q: 3.9677, New Q: 3.9687, Max Q next: 1.9981
+
+Episode 93 || State: TU10p, Action: P
+Reward: 2
+Old Q: 1.9981, New Q: 1.9983, Max Q next: 0.0000
+
+Episode 93 || State: RU10a, Action: any
+Reward: 0
+Old Q: 0.0000, New Q: 0.0000, Max Q next: 0.0000
+
+Episode 94 || State: RU8p, Action: P
+Reward: 2
+Old Q: 3.9687, New Q: 3.9697, Max Q next: 1.9983
+
+Episode 94 || State: TU10p, Action: P
+Reward: 2
+Old Q: 1.9983, New Q: 1.9985, Max Q next: 0.0000
+
+Episode 94 || State: RU10a, Action: any
+Reward: 0
+Old Q: 0.0000, New Q: 0.0000, Max Q next: 0.0000
+
+
+---------- Final Q-values ----------
+Q[RU8p][P] = 3.9697
+Q[RU8p][R] = 0.4143
+Q[RU8p][S] = -0.5035
+Q[TU10p][P] = 1.9985
+Q[TU10p][R] = 0.5099
+Q[RU10p][R] = 0.0808
+Q[RU10p][P] = 1.4186
+Q[RU10p][S] = -0.0961
+Q[RD10p][R] = 0.0981
+Q[RD10p][P] = 0.2587
+Q[RU8a][P] = 1.1490
+Q[RU8a][R] = 0.0000
+Q[RU8a][S] = 0.0000
+Q[RD8a][R] = 0.7401
+Q[RD8a][P] = 0.0000
+Q[TU10a][any] = -0.8147
+Q[RU10a][any] = 0.0000
+Q[RD10a][any] = 2.2781
+Q[TD10a][any] = 0.0000
+
+---------- Final Policy ----------
+RU8p: P
+TU10p: P
+RU10p: P
+RD10p: P
+RU8a: P
+RD8a: R
+TU10a: any
+RU10a: any
+RD10a: any
+TD10a: any
+
+Total episodes: 94

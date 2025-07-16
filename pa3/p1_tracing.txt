@@ -1,0 +1,319 @@
+---------- Iteration 1 ----------
+
+State: RU8p
+  Prev V: 0.0000
+  Q(RU8p, P) = 2.0000
+  Q(RU8p, R) = 0.0000
+  Q(RU8p, S) = -1.0000
+  New V: 2.0000 via action: P
+
+State: TU10p
+  Prev V: 0.0000
+  Q(TU10p, P) = 2.0000
+  Q(TU10p, R) = 0.0000
+  New V: 2.0000 via action: P
+
+State: RU10p
+  Prev V: 0.0000
+  Q(RU10p, R) = 0.0000
+  Q(RU10p, P) = 2.0000
+  Q(RU10p, S) = -1.0000
+  New V: 2.0000 via action: P
+
+State: RD10p
+  Prev V: 0.0000
+  Q(RD10p, R) = 0.0000
+  Q(RD10p, P) = 2.0000
+  New V: 2.0000 via action: P
+
+State: RU8a
+  Prev V: 0.0000
+  Q(RU8a, P) = 2.0000
+  Q(RU8a, R) = 0.0000
+  Q(RU8a, S) = -1.0000
+  New V: 2.0000 via action: P
+
+State: RD8a
+  Prev V: 0.0000
+  Q(RD8a, R) = 0.0000
+  Q(RD8a, P) = 2.0000
+  New V: 2.0000 via action: P
+
+State: TU10a
+  Prev V: 0.0000
+  Q(TU10a, any) = -1.0000
+  New V: -1.0000 via action: any
+
+State: RU10a
+  Prev V: 0.0000
+  Q(RU10a, any) = 0.0000
+  New V: 0.0000 via action: any
+
+State: RD10a
+  Prev V: 0.0000
+  Q(RD10a, any) = 4.0000
+  New V: 4.0000 via action: any
+
+State: TD10a
+  Prev V: 0.0000
+  Q(TD10a, any) = 3.0000
+  New V: 3.0000 via action: any
+
+---------- Iteration 2 ----------
+
+State: RU8p
+  Prev V: 2.0000
+  Q(RU8p, P) = 3.9800
+  Q(RU8p, R) = 1.9800
+  Q(RU8p, S) = 0.9800
+  New V: 3.9800 via action: P
+
+State: TU10p
+  Prev V: 2.0000
+  Q(TU10p, P) = 2.0000
+  Q(TU10p, R) = 1.9800
+  New V: 2.0000 via action: P
+
+State: RU10p
+  Prev V: 2.0000
+  Q(RU10p, R) = 1.9800
+  Q(RU10p, P) = 2.9900
+  Q(RU10p, S) = 0.9800
+  New V: 2.9900 via action: P
+
+State: RD10p
+  Prev V: 2.0000
+  Q(RD10p, R) = 1.9800
+  Q(RD10p, P) = 4.9700
+  New V: 4.9700 via action: P
+
+State: RU8a
+  Prev V: 2.0000
+  Q(RU8a, P) = 1.0100
+  Q(RU8a, R) = 0.0000
+  Q(RU8a, S) = 2.9600
+  New V: 2.9600 via action: S
+
+State: RD8a
+  Prev V: 2.0000
+  Q(RD8a, R) = 3.9600
+  Q(RD8a, P) = 4.9700
+  New V: 4.9700 via action: P
+
+State: TU10a
+  Prev V: -1.0000
+  Q(TU10a, any) = -1.0000
+  New V: -1.0000 via action: any
+
+State: RU10a
+  Prev V: 0.0000
+  Q(RU10a, any) = 0.0000
+  New V: 0.0000 via action: any
+
+State: RD10a
+  Prev V: 4.0000
+  Q(RD10a, any) = 4.0000
+  New V: 4.0000 via action: any
+
+State: TD10a
+  Prev V: 3.0000
+  Q(TD10a, any) = 3.0000
+  New V: 3.0000 via action: any
+
+---------- Iteration 3 ----------
+
+State: RU8p
+  Prev V: 3.9800
+  Q(RU8p, P) = 3.9800
+  Q(RU8p, R) = 2.9601
+  Q(RU8p, S) = 3.9203
+  New V: 3.9800 via action: P
+
+State: TU10p
+  Prev V: 2.0000
+  Q(TU10p, P) = 2.0000
+  Q(TU10p, R) = 2.9304
+  New V: 2.9304 via action: R
+
+State: RU10p
+  Prev V: 2.9900
+  Q(RU10p, R) = 2.9304
+  Q(RU10p, P) = 3.4652
+  Q(RU10p, S) = 3.9203
+  New V: 3.9203 via action: S
+
+State: RD10p
+  Prev V: 4.9700
+  Q(RD10p, R) = 4.9203
+  Q(RD10p, P) = 6.4402
+  New V: 6.4402 via action: P
+
+State: RU8a
+  Prev V: 2.9600
+  Q(RU8a, P) = 1.0100
+  Q(RU8a, R) = 0.0000
+  Q(RU8a, S) = 2.9600
+  New V: 2.9600 via action: S
+
+State: RD8a
+  Prev V: 4.9700
+  Q(RD8a, R) = 3.9600
+  Q(RD8a, P) = 4.9700
+  New V: 4.9700 via action: P
+
+State: TU10a
+  Prev V: -1.0000
+  Q(TU10a, any) = -1.0000
+  New V: -1.0000 via action: any
+
+State: RU10a
+  Prev V: 0.0000
+  Q(RU10a, any) = 0.0000
+  New V: 0.0000 via action: any
+
+State: RD10a
+  Prev V: 4.0000
+  Q(RD10a, any) = 4.0000
+  New V: 4.0000 via action: any
+
+State: TD10a
+  Prev V: 3.0000
+  Q(TD10a, any) = 3.0000
+  New V: 3.0000 via action: any
+
+---------- Iteration 4 ----------
+
+State: RU8p
+  Prev V: 3.9800
+  Q(RU8p, P) = 4.9011
+  Q(RU8p, R) = 3.8811
+  Q(RU8p, S) = 5.3757
+  New V: 5.3757 via action: S
+
+State: TU10p
+  Prev V: 2.9304
+  Q(TU10p, P) = 2.0000
+  Q(TU10p, R) = 2.9304
+  New V: 2.9304 via action: R
+
+State: RU10p
+  Prev V: 3.9203
+  Q(RU10p, R) = 2.9304
+  Q(RU10p, P) = 3.4652
+  Q(RU10p, S) = 3.9203
+  New V: 3.9203 via action: S
+
+State: RD10p
+  Prev V: 6.4402
+  Q(RD10p, R) = 4.9203
+  Q(RD10p, P) = 6.4402
+  New V: 6.4402 via action: P
+
+State: RU8a
+  Prev V: 2.9600
+  Q(RU8a, P) = 1.0100
+  Q(RU8a, R) = 0.0000
+  Q(RU8a, S) = 2.9600
+  New V: 2.9600 via action: S
+
+State: RD8a
+  Prev V: 4.9700
+  Q(RD8a, R) = 3.9600
+  Q(RD8a, P) = 4.9700
+  New V: 4.9700 via action: P
+
+State: TU10a
+  Prev V: -1.0000
+  Q(TU10a, any) = -1.0000
+  New V: -1.0000 via action: any
+
+State: RU10a
+  Prev V: 0.0000
+  Q(RU10a, any) = 0.0000
+  New V: 0.0000 via action: any
+
+State: RD10a
+  Prev V: 4.0000
+  Q(RD10a, any) = 4.0000
+  New V: 4.0000 via action: any
+
+State: TD10a
+  Prev V: 3.0000
+  Q(TD10a, any) = 3.0000
+  New V: 3.0000 via action: any
+
+---------- Iteration 5 ----------
+
+State: RU8p
+  Prev V: 5.3757
+  Q(RU8p, P) = 4.9011
+  Q(RU8p, R) = 3.8811
+  Q(RU8p, S) = 5.3757
+  New V: 5.3757 via action: S
+
+State: TU10p
+  Prev V: 2.9304
+  Q(TU10p, P) = 2.0000
+  Q(TU10p, R) = 2.9304
+  New V: 2.9304 via action: R
+
+State: RU10p
+  Prev V: 3.9203
+  Q(RU10p, R) = 2.9304
+  Q(RU10p, P) = 3.4652
+  Q(RU10p, S) = 3.9203
+  New V: 3.9203 via action: S
+
+State: RD10p
+  Prev V: 6.4402
+  Q(RD10p, R) = 4.9203
+  Q(RD10p, P) = 6.4402
+  New V: 6.4402 via action: P
+
+State: RU8a
+  Prev V: 2.9600
+  Q(RU8a, P) = 1.0100
+  Q(RU8a, R) = 0.0000
+  Q(RU8a, S) = 2.9600
+  New V: 2.9600 via action: S
+
+State: RD8a
+  Prev V: 4.9700
+  Q(RD8a, R) = 3.9600
+  Q(RD8a, P) = 4.9700
+  New V: 4.9700 via action: P
+
+State: TU10a
+  Prev V: -1.0000
+  Q(TU10a, any) = -1.0000
+  New V: -1.0000 via action: any
+
+State: RU10a
+  Prev V: 0.0000
+  Q(RU10a, any) = 0.0000
+  New V: 0.0000 via action: any
+
+State: RD10a
+  Prev V: 4.0000
+  Q(RD10a, any) = 4.0000
+  New V: 4.0000 via action: any
+
+State: TD10a
+  Prev V: 3.0000
+  Q(TD10a, any) = 3.0000
+  New V: 3.0000 via action: any
+
+---------- Final Values and Policy ----------
+RU8p: V = 5.3757, Policy = S
+TU10p: V = 2.9304, Policy = R
+RU10p: V = 3.9203, Policy = S
+RD10p: V = 6.4402, Policy = P
+RU8a: V = 2.9600, Policy = S
+RD8a: V = 4.9700, Policy = P
+TU10a: V = -1.0000, Policy = any
+RU10a: V = 0.0000, Policy = any
+RD10a: V = 4.0000, Policy = any
+TD10a: V = 3.0000, Policy = any
+EXIT: V = 0.0000, Policy = None
+
+Total iterations: 5
